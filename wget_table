@@ -1,0 +1,2 @@
+id=1TicJZYBxiFs5jkhiNIvTbKlaf9lWBHt4eTL3tGQ8n4M
+wget --content-disposition "https://docs.google.com/spreadsheets/d/$id/export?format=ods&id=$id"
